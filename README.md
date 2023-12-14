@@ -7,8 +7,11 @@
 From: https://www.baeldung.com/linux/determine-virtualization-tech
 
 `sudo dmidecode -s system-product-name`
+
 `sudo lshw -class system`
+
 `systemd-detect-virt`
+
 `hostnamectl`
 
 
