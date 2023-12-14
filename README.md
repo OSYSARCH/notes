@@ -6,10 +6,10 @@
 
 From: https://www.baeldung.com/linux/determine-virtualization-tech
 
-1. `sudo dmidecode -s system-product-name`
-1. `sudo lshw -class system`
-1. `systemd-detect-virt`
-1. `hostnamectl`
+`sudo dmidecode -s system-product-name`
+`sudo lshw -class system`
+`systemd-detect-virt`
+`hostnamectl`
 
 
 ### Examples
